@@ -1,0 +1,103 @@
+{
+  "transactions": [
+    {
+      "id": 0,
+      "description": "Rústico Borracha Queijo",
+      "type": "expense",
+      "category": "Turismo",
+      "amount": 436,
+      "observations": "payment transaction at Martins, Macedo e Oliveira using card ending with ***(...1504) for BBD 99.57 in account ***20830933",
+      "paid": false,
+      "date": "2023-01-22T03:00:00.000Z",
+      "created_at": "2023-01-05T04:15:18.946Z"
+    },
+    {
+      "id": 1,
+      "description": "Fantástico Concreto Computador",
+      "type": "expense",
+      "category": "Bebê",
+      "amount": 469,
+      "observations": "payment transaction at Macedo LTDA using card ending with ***(...2117) for HNL 196.13 in account ***38729070",
+      "paid": false,
+      "date": "2023-01-21T03:00:00.000Z",
+      "created_at": "2023-01-05T04:15:18.947Z"
+    },
+    {
+      "id": 2,
+      "description": "Refinado Concreto Peixe",
+      "type": "revenue",
+      "category": "Jardim",
+      "amount": 318,
+      "observations": "payment transaction at Souza-Braga using card ending with ***(...1056) for PYG 362.04 in account ***15317241",
+      "paid": false,
+      "date": "2023-01-31T03:00:00.000Z",
+      "created_at": "2023-01-05T04:15:18.947Z"
+    },
+    {
+      "id": 3,
+      "description": "Incrível Fresco Cadeira",
+      "type": "revenue",
+      "category": "Sapatos",
+      "amount": 357,
+      "observations": "payment transaction at Xavier, Carvalho e Pereira using card ending with ***(...6266) for PLN 905.65 in account ***50188753",
+      "paid": true,
+      "date": "2023-01-19T03:00:00.000Z",
+      "created_at": "2023-01-05T04:15:18.947Z"
+    },
+    {
+      "id": 4,
+      "description": "Prático Madeira Computador",
+      "type": "expense",
+      "category": "Saúde",
+      "amount": 334,
+      "observations": "payment transaction at Macedo-Santos using card ending with ***(...6632) for XPF 2.85 in account ***17853936",
+      "paid": true,
+      "date": "2023-01-13T03:00:00.000Z",
+      "created_at": "2023-01-05T04:15:18.947Z"
+    },
+    {
+      "id": 5,
+      "description": "Inteligente Aço Peixe",
+      "type": "revenue",
+      "category": "Sapatos",
+      "amount": 890,
+      "observations": "payment transaction at Oliveira, Moreira e Xavier using card ending with ***(...2482) for NIO 120.31 in account ***46834616",
+      "paid": false,
+      "date": "2023-01-15T03:00:00.000Z",
+      "created_at": "2023-01-05T04:15:18.947Z"
+    },
+    {
+      "id": 6,
+      "description": "Feito à mão Fresco Luvas",
+      "type": "expense",
+      "category": "Industrial",
+      "amount": 518,
+      "observations": "withdrawal transaction at Moreira, Oliveira e Melo using card ending with ***(...7195) for XCD 634.45 in account ***80604643",
+      "paid": true,
+      "date": "2023-01-09T03:00:00.000Z",
+      "created_at": "2023-01-05T04:15:18.947Z"
+    },
+    {
+      "id": 7,
+      "description": "Refinado Madeira Chapéu",
+      "type": "revenue",
+      "category": "Mercearia",
+      "amount": 788,
+      "observations": "payment transaction at Silva-Carvalho using card ending with ***(...7710) for OMR 710.02 in account ***58499863",
+      "paid": false,
+      "date": "2023-01-20T03:00:00.000Z",
+      "created_at": "2023-01-05T04:15:18.947Z"
+    },
+    {
+      "id": 8,
+      "description": "Licenciado Aço Computador",
+      "type": "revenue",
+      "category": "Casa",
+      "amount": 222,
+      "observations": "deposit transaction at Santos-Melo using card ending with ***(...7908) for NGN 649.48 in account ***12006833",
+      "paid": false,
+      "date": "2023-01-08T03:00:00.000Z",
+      "created_at": "2023-01-05T04:15:18.947Z"
+    }
+  ]
+}

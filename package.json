@@ -1,0 +1,20 @@
+{
+  "name": "finflow-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "generate-mock-data": "node generate.js",
+    "prestart": "yarn generate-mock-data",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
